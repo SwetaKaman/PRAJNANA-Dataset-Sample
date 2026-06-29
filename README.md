@@ -6,7 +6,7 @@ This repository contains a **5-subject public sample** of the **PRAJNANA** (pron
 This synchronized, multimodal neurophysiological dataset of N = 30 Indian participants was designed to investigate the neural and physiological correlates of wisdom during moral conflict evaluation. 
 
 ## 🧠 Experimental Task & Paradigm
-Participants were presented with 13 pictorial moral vignettes drawn from the **MWISE** (Multidimensional Wisdom Scale-Extended). The vignettes depict scenarios of varying moral complexity:
+Participants were presented with 13 pictorial moral vignettes drawn from the **MWISE** (Moral Wisdom Evaluation Scale). The vignettes depict scenarios of varying moral complexity:
 - **High Moral Conflict (HC):** e.g., witnessed violence, severe ethical dilemmas.
 - **Low Moral Conflict (LC):** e.g., prosocial actions, ambiguous but non-threatening scenarios.
 
